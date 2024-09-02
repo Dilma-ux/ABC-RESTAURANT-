@@ -32,7 +32,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     <title>Add Menu Item</title>
     <link rel="stylesheet" href="styles.css">
     <link rel="stylesheet" href="add.css">
-
 </head>
 <body>
     <div class="container">
